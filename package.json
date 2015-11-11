@@ -1,0 +1,17 @@
+{
+  "name": "gulp-chainize",
+  "version": "0.0.1",
+  "description": "chainize gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "44kana/gulp-chainize",
+  "keywords": [
+    "gulp",
+    "gulpfriendry",
+    "helper"
+  ],
+  "author": "44kana",
+  "license": "MIT"
+}
