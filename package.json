@@ -1,6 +1,6 @@
 {
   "name": "gulp-chainize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "chainize gulp.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "repository": "44kana/gulp-chainize",
   "keywords": [
     "gulp",
-    "gulpfriendry",
+    "gulpfriendly",
     "helper"
   ],
   "author": "44kana",
