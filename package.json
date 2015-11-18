@@ -1,7 +1,7 @@
 {
   "name": "gulp-chainize",
-  "version": "0.0.2",
-  "description": "chainize gulp.",
+  "version": "0.0.3",
+  "description": "Chainize gulp. Provides a way to describe without a .pipe.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,8 @@
   "keywords": [
     "gulp",
     "gulpfriendly",
-    "helper"
+    "helper",
+    "chain"
   ],
   "author": "44kana",
   "license": "MIT"
