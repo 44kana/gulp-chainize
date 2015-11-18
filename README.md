@@ -53,11 +53,12 @@ gulp.task('task',function(){
   gulpchain.src('some/folder/file/*.ext')
     .pluinInPackageJs()
     .someplugin()
+    .pipe(npm-scoped.plugin())  // @npm-scoped/plugin from gulp-load-plugins
     .dest('dest/folder/output');
 });
 ```
 
-`.src()` , `.pipe()` and `dest()` is reserved.
+`.src()` , `.pipe()` and `.dest()` is reserved.
  
  
 LICENSE
